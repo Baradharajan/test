@@ -1,2 +1,2 @@
-# test
-just test only
+# First Project
+My first efforts with GIT 
