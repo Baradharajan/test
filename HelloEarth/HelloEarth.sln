@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HelloEarth", "HelloEarth.pyproj", "{B894FB76-D619-4A3F-8714-1716A1DD7A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B894FB76-D619-4A3F-8714-1716A1DD7A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B894FB76-D619-4A3F-8714-1716A1DD7A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F40D021-F12F-4C65-9AC7-CB92758186C7}
+	EndGlobalSection
+EndGlobal
